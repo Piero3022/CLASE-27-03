@@ -1,0 +1,48 @@
+html{
+    font-size: 20px;
+    
+
+}
+
+body{
+    min-width: 100vh;
+    min-height: 100vh;
+    background-color:chocolate ;
+    padding: auto;
+}
+
+section{
+    font-size: 30px;
+    min-width: 50vh;
+    min-height: 60vh;
+    background-color: cadetblue;
+    text-align: center;
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+
+    font-size: 2em;
+    color: darkmagenta;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+p{
+    background-color: crimson;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration:underline ;
+    font-family: cursive;
+    color:darkblue;
+
+
+
+}
+
